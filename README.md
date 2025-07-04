@@ -6,4 +6,4 @@ macOS 15
 
 python = 3.12
 
-pytorch =
+pytorch = 2.7
